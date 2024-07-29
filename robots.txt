@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://siopicen.github.io/sitemap.html.gz
+Sitemap: https://siopicen.github.io/app/sitemap.html.gz
+Sitemap: https://siopicen.github.io/assets/sitemap.html.gz
+Sitemap: https://siopicen.github.io/css/sitemap.html.gz
+Sitemap: https://siopicen.github.io/includes/sitemap.html.gz
+Sitemap: https://siopicen.github.io/item/sitemap.html.gz
+Sitemap: https://siopicen.github.io/src/sitemap.html.gz
